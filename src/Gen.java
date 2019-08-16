@@ -30,6 +30,6 @@ class SimpleGen{
         System.out.println(v);
        String str = tgObj.getOb2();
         System.out.println(str);
-
+//test
     }
 }
